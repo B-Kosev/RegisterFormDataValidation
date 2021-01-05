@@ -1,5 +1,5 @@
 # RegisterFormDataValidation
-Java JavaFX application that displays a Registration form. It collects the following data:
+JavaFX application that displays a Registration form. It collects the following data:
 
 a) the user name- it should be containing ONLY letters a- z (upper or lower case) and at
 least 2 such letters
